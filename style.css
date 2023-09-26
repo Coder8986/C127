@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    width: 100%;
+}
